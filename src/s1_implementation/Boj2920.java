@@ -2,7 +2,7 @@ package s1_implementation;
 
 import java.io.*;
 
-class Main {
+public class Boj2920 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String line = br.readLine();
