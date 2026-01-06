@@ -1,4 +1,4 @@
-package s4_bruteforce;
+package s5_backtracking;
 
 import java.io.*;
 import java.util.*;
